@@ -1,4 +1,4 @@
-# Hi there, I'm sariidouuu! 👋
+# Hi there, I'm Olga! 👋
 
 I am a student at the **University of Macedonia**, Department of **Applied Informatics**.
 
