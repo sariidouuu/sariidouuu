@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there, I'm sariidouuu! 👋
+
+I am a student at the **University of Macedonia**, Department of **Applied Informatics**.
+
+## 🎓 About Me
+- 🏫 Studying at University of Macedonia (UOM).
+- 💻 Interested in Data Science, Machine Learning, Big Data, and Coding.
+- 🛠 Currently working on university projects using **Python**, **Java**, and **Apache Spark**.
 
 <!--
 **sariidouuu/sariidouuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
