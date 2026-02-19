@@ -1,4 +1,4 @@
-# Hi there, I'm Olga
+# Hi, I'm Olga
 
 ## About Me
 - 🏫 Studying at University of Macedonia (UOM).
