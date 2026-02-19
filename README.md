@@ -1,11 +1,9 @@
 # Hi there, I'm Olga
 
-I am a student at the **University of Macedonia**, Department of **Applied Informatics**.
-
-## 🎓 About Me
+## About Me
 - 🏫 Studying at University of Macedonia (UOM).
 - 💻 Interested in Data Science, Machine Learning, Big Data, and Coding.
-- 🛠 Currently working on university projects using **Python**, **Java**, and **Apache Spark**.
+- 🛠 Currently working on university projects using **Python**, **Java**, and **HTML5/CSS3/JS**.
 
 <!--
 **sariidouuu/sariidouuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
