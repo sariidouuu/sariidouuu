@@ -2,7 +2,7 @@
 
 ## About Me
 - 🏫 Studying at University of Macedonia (UOM).
-- 💻 Interested in Data Science, Machine Learning, Big Data, and Coding.
+- 💻 Interested in Data Science, Machine Learning, Big Data, and Web development.
 - 🛠 Currently working on university projects using **Python**, **Java**, and **HTML5/CSS3/JS**.
 
 <!--
