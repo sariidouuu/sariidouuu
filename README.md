@@ -3,7 +3,7 @@
 ## About Me
 - 🏫 Studying at University of Macedonia (UOM).
 - 💻 Interested in Data Science, Machine Learning, Big Data, and Web development.
-- 🛠 Currently working on university projects using **Python**, **Java**, and **HTML5/CSS3/JS**.
+- 🛠 Currently working on university projects using **Python**, **Java**, and **HTML5/CSS3/JS** and on my thesis project.
 
 <!--
 **sariidouuu/sariidouuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
